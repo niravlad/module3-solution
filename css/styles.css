@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    background-color: #999999;
+    border: 1px solid #000;
+    color: #000;
+}
+
+.navbar-header a, .navbar-header a:hover, .nav a, .nav a:hover {
+    color: #000 !important;
+}
+
+
+.navbar-toggle {
+    border-color: #000 !important;
+}
+
+    .navbar-toggle:hover {
+        border-color: #DCDCDC !important;
+    }
+
+.icon-bar {
+    background-color: #000 !important;
+}
+
+
+.nav ul {
+    background-color: #fff !important;
+}
+
+.collapse li {
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+
+
+
+section {
+    width: 100%;
+    background-color: #999999;
+    border: 1px solid #000000;
+}
+
+
+p {
+    padding: 10px;
+    clear: both;
+}
+
+.row div {
+    margin: 20px 0px;
+}
+
+section > div {
+    font-size: 18px;
+    font-weight: bold;
+}
